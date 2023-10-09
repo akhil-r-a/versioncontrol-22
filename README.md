@@ -1,14 +1,21 @@
 # versioncontrol-22
-<<<<<<< HEAD
-Steve Panthalukaran
-Akhil Aramalla
-Kailun Huang 
-
-The programs asks the user to input their name and age, and will return "Your name is (name) and your age is (age)"
-=======
 Akhil Aramalla
 Steve Panthalukaran
 Kailun Huang
 
-The code takes the users name and age and prints "Hi (name), you are (age) years old"
->>>>>>> 9672cd30e0cd2fa912b4e1358f561ef6302f8d86
+# Readme
+
+This is the lab work from group-22
+
+# User Information Python Program
+
+This program takes input fot user name and age and display with a complete sentence with greetings.
+
+# Code Explaintion
+This program use the "input()" funtction to collect users data and print them out
+userAge store the user's age
+userInput stre the user's name
+And the "print" statement display a complete sentence with greetings.
+
+# P.S
+in order to run this program make sure you have python installed if you are in jupyter notebook you will be fine.
